@@ -1,0 +1,7 @@
+main: nl.dantevg.afkscoreboard.Main
+name: AFKScoreboard
+version: 1.0.0
+description: Puts the player's AFK status into a scoreboard objective
+author: RedPolygon
+website: dantevg.nl/mods/AFKScoreboard
+depend: [Essentials]
