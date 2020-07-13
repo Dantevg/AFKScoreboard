@@ -3,5 +3,5 @@ name: AFKScoreboard
 version: 1.0.0
 description: Puts the player's AFK status into a scoreboard objective
 author: RedPolygon
-website: dantevg.nl/mods/AFKScoreboard
+website: dantevg.nl/mods-plugins/AFKScoreboard
 depend: [Essentials]
